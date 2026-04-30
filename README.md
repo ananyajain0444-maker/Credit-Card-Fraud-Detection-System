@@ -99,24 +99,5 @@ Credit-Card-Fraud-Detection/
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
-python generate_data.py
-python main.py
-
-## 🚀 Future Improvements
-
-- Real-time fraud detection API using FastAPI  
-- Streaming-based fraud detection using Kafka  
-- Interactive dashboard using Streamlit or Next.js  
-- Advanced deep learning models (LSTM, Autoencoders)  
-- Cloud deployment on AWS / Azure / GCP  
-- Model monitoring and drift detection system  
-- Integration with live payment gateway simulation  
-
----
-
-## 👨‍💻 Author
-
-Ananya Jain
-
 
 
