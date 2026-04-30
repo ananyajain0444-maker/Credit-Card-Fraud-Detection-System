@@ -96,8 +96,6 @@ Credit-Card-Fraud-Detection/
 
 ## 🧪 How to Run
 
-### Install dependencies
+### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
-
-
